@@ -4,7 +4,8 @@ NETCAT-BHP is a versatile networking tool written in Python 3, inspired by the c
 
 Please give a ⭐ to this tool!
 
-![image](https://github.com/user-attachments/assets/6ffa9648-6762-49b2-8825-73cb234db7f5)
+![image](https://github.com/user-attachments/assets/80b45969-3f11-4c83-bcd6-7c1f70d09130)
+
 
 ## Features
 Port Scanning: Quickly scan for open ports on a target system.
