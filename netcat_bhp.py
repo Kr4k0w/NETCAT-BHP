@@ -155,7 +155,7 @@ by Kr4k0w{RESET}
     parser = argparse.ArgumentParser(
         description='BHP Net Tool',
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog=textwrap.dedent('''Exemplo: 
+        epilog=textwrap.dedent('''Exemple: 
         netcat.py -t [ip] -p [port] -l -c #shell command
         netcat.py -t [ip] -p [port] -l -u=file.txt #upload file
         netcat.py -t [ip] -p [port] -l -e="cat /etc/passwd" #execute command
