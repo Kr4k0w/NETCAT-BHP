@@ -5,7 +5,8 @@
 - Leave your ⭐ to increase the visibility of this project, and if you can, share it! I'm counting with you!
 
 
-![image](https://github.com/user-attachments/assets/46cb5539-716d-404b-9c1b-b9137aa881dd)
+![image](https://github.com/user-attachments/assets/3f4c2a38-db2d-4ced-9aac-6bd26693412c)
+
 
 
 
