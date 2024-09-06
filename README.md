@@ -1,32 +1,33 @@
 # NETCAT-BHP 🐈‍⬛
 
-NETCAT-BHP is a versatile networking tool written in Python 3, inspired by the classic Netcat utility and developed based on concepts from the “Black Hat Python” book. This tool aims to provide a powerful and flexible solution for network communication, debugging, and penetration testing.
+**NETCAT-BHP** is a versatile networking tool written in Python 3, inspired by the classic Netcat utility and developed based on concepts from the “Black Hat Python” book. This tool aims to provide a powerful and flexible solution for network communication, debugging, and penetration testing.
 
-Please give a ⭐ to this tool!
+- Leave your ⭐ to increase the visibility of this project, and if you can, share it! I'm counting with you!
 
 ![image](https://github.com/user-attachments/assets/80b45969-3f11-4c83-bcd6-7c1f70d09130)
 
 
-## Features
-Port Scanning: Quickly scan for open ports on a target system.
-File Transfer: Easily transfer files between systems over a network.
-Reverse Shell: Establish a reverse shell connection for remote command execution.
-Bind Shell: Set up a bind shell to listen for incoming connections.
-Chat Server: Create a simple chat server for communication between multiple clients.
-Custom Scripts: Extend functionality with custom Python scripts.
+## Features 
+- File Transfer: Easily transfer files between systems over a network.
+- Reverse Shell: Establish a reverse shell connection for remote command execution.
+- Bind Shell: Set up a bind shell to listen for incoming connections.
 
 ## Install
 Clone the repository and navigate to the project directory:
 
+``` shell
 git clone https://github.com/Kr4k0w/NETCAT-BHP.git
 cd NETCAT-BHP
+```
 
 ## Usage
 Run the tool with the desired options:
-
-python netcat_bhp.py -t <target> -p <port> [options]
+``` python
+python netcat_bhp.py -t [ip] -p [port] [options]
 
 ```
+
+``` shell
 usage: netcat_bhp.py [-h] [-c] [-e EXECUTE] [-l] [-p PORT] [-t TARGET] [-u UPLOAD]
 
 BHP Net Tool
@@ -61,5 +62,5 @@ Contributions are welcome!
 
 ![image](https://github.com/user-attachments/assets/43e4d62c-c7e9-4a15-902b-fe0d5b1ae6df)
 
-Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters
-by Justin Seitz (Autor), Tim Arnold (Autor)
+- Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters
+- by Justin Seitz (Autor), Tim Arnold (Autor)
