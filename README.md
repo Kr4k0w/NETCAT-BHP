@@ -4,7 +4,10 @@
 
 - Leave your ⭐ to increase the visibility of this project, and if you can, share it! I'm counting with you!
 
-![image](https://github.com/user-attachments/assets/80b45969-3f11-4c83-bcd6-7c1f70d09130)
+
+![image](https://github.com/user-attachments/assets/46cb5539-716d-404b-9c1b-b9137aa881dd)
+
+
 
 
 ## Features 
@@ -26,6 +29,12 @@ Run the tool with the desired options:
 python netcat_bhp.py -t [ip] -p [port] [options]
 
 ```
+- Press CTRL + D to start the shell
+
+![image](https://github.com/user-attachments/assets/c31dd301-f4dd-40f5-9a98-94010cf072d8)
+
+
+
 
 ``` shell
 usage: netcat_bhp.py [-h] [-c] [-e EXECUTE] [-l] [-p PORT] [-t TARGET] [-u UPLOAD]
