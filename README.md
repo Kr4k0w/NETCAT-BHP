@@ -34,6 +34,7 @@ python netcat_bhp.py -t [ip] -p [port] [options]
 ![image](https://github.com/user-attachments/assets/c31dd301-f4dd-40f5-9a98-94010cf072d8)
 
 
+- Use --help or -h to show this guide
 
 
 ``` shell
